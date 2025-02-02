@@ -1,2 +1,2 @@
-# ActivePowerFactorController
-CRM Mode Active Power Factor Controller
+# ActivePowerFactorCorrection
+CRM Mode Active Power Factor Correction using PI Controller
